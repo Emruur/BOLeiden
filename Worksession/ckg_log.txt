@@ -1,0 +1,34 @@
+=== cKG Run Log ===
+[15:23:51] 
+--- Iteration 1/8 ---
+[15:23:51] Fitted GP models in 0.02s
+[15:23:53] Computed cKG for 200 candidates in 1.84s; Next x = 0.000
+[15:23:53] 
+--- Iteration 2/8 ---
+[15:23:53] Fitted GP models in 0.04s
+[15:23:54] Computed cKG for 200 candidates in 1.74s; Next x = 0.000
+[15:23:54] 
+--- Iteration 3/8 ---
+[15:23:54] Fitted GP models in 0.02s
+[15:23:56] Computed cKG for 200 candidates in 1.94s; Next x = 0.568
+[15:23:56] 
+--- Iteration 4/8 ---
+[15:23:56] Fitted GP models in 0.02s
+[15:23:58] Computed cKG for 200 candidates in 1.92s; Next x = 0.000
+[15:23:58] 
+--- Iteration 5/8 ---
+[15:23:58] Fitted GP models in 0.03s
+[15:24:00] Computed cKG for 200 candidates in 1.77s; Next x = 0.000
+[15:24:00] 
+--- Iteration 6/8 ---
+[15:24:00] Fitted GP models in 0.02s
+[15:24:02] Computed cKG for 200 candidates in 1.80s; Next x = 0.553
+[15:24:02] 
+--- Iteration 7/8 ---
+[15:24:02] Fitted GP models in 0.02s
+[15:24:04] Computed cKG for 200 candidates in 1.81s; Next x = 0.000
+[15:24:04] 
+--- Iteration 8/8 ---
+[15:24:04] Fitted GP models in 0.04s
+[15:24:06] Computed cKG for 200 candidates in 1.79s; Next x = 0.553
+[15:24:06] Finished optimization. Results saved to ckg_results.png
