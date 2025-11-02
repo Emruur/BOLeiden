@@ -482,9 +482,9 @@ def run_experiments_with_acq(acq_type="tckg", n_runs=10, seed_base=31, visualize
 if __name__ == "__main__":
     os.makedirs("experiment", exist_ok=True)
 
-    mean_tckg, std_tckg, _ = run_experiments_with_acq("tckg", n_runs=5)
-    mean_cei, std_cei, _ = run_experiments_with_acq("cei", n_runs=5)
-    mean_rand, std_rand, _ = run_experiments_with_acq("random", n_runs=5)
+    mean_tckg, std_tckg, _ = run_experiments_with_acq("tckg", n_runs=10)
+    mean_cei, std_cei, _ = run_experiments_with_acq("cei", n_runs=10)
+    mean_rand, std_rand, _ = run_experiments_with_acq("random", n_runs=10)
 
     steps = np.arange(1, len(mean_tckg) + 1)
     plt.figure(figsize=(8, 5))
